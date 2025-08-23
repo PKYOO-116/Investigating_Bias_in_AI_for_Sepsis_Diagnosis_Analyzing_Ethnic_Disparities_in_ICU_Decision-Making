@@ -1,4 +1,4 @@
-# Bias in Sepsis Diagnosis Across Racial Groups Using Machine Learning
+# Investigating Bias in AI for Sepsis Diagnosis: Analyzing Ethnic Disparities in ICU Decision-Making
 
 ## Project Overview
 
