@@ -37,7 +37,7 @@ The project was conducted as part of the DSCI 531 course (Fairness in Machine Le
 
 This repository includes the following files:
 
-#### `DSCI531_FinalReport_YooPaul_PayapulliJoshua_PatelArmand.pdf`
+#### `DSCI531_Final_Report.pdf`
 
 The final report submitted for the course. It includes full documentation of the project scope, dataset description, methodology, and findings.
 
@@ -49,7 +49,7 @@ A Jupyter Notebook containing the full analysis pipeline. Includes data processi
 
 ## Author
 
-**Paul Yoo**  
+**Paul Yoo**
 M.S. in Applied Data Science  
 University of Southern California, Spring 2025  
 Data preprocessing, fairness metric implementation, bias mitigation, model evaluation  
